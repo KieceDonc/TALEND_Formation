@@ -1,1 +1,16 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_vG-LcGZaEe2-gfCphW_ZrQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_xDtXMGZVEe2-gfCphW_ZrQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_xDtXMGZVEe2-gfCphW_ZrQ - src_order_lines",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
