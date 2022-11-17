@@ -1,5 +1,24 @@
 [ {
   "baseItem" : {
+    "id" : "_7sbWcGZiEe2-gfCphW_ZrQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_GKpUsGZWEe2-gfCphW_ZrQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_xDtXMGZVEe2-gfCphW_ZrQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_xDtXMGZVEe2-gfCphW_ZrQ - src_region",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_vG-LcGZaEe2-gfCphW_ZrQ",
     "version" : "0.1",
     "type" : "job"
